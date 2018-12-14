@@ -1,5 +1,5 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import logo from './dog-weapon.gif';
 import './App.css';
 
 class App extends Component {
@@ -7,17 +7,14 @@ class App extends Component {
     return (
       <div className="App">
         <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <p>
-            Edit <code>src/App.js</code> and save to reload.
-          </p>
+          <img src={logo} className="App-logo" alt="the best gif ever" />
           <a
             className="App-link"
-            href="https://reactjs.org"
+            href="www.ryanfiller.com"
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React
+            www.ryanfiller.com
           </a>
         </header>
       </div>
