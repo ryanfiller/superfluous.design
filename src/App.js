@@ -10,7 +10,7 @@ class App extends Component {
           <img src={logo} className="App-logo" alt="the best gif ever" />
           <a
             className="App-link"
-            href="www.ryanfiller.com"
+            href="https://www.ryanfiller.com"
             target="_blank"
             rel="noopener noreferrer"
           >
